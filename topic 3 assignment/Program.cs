@@ -20,7 +20,7 @@ namespace topic_3_assignment
             Console.WriteLine("I graduate in " + gradyear);
             double cRad = 3;
             double area = (cRad * cRad) * 3.14;
-            Console.WriteLine(area);
+            Console.WriteLine("the radius is 3 so that means the area is " + area);
             
 
 
